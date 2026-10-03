@@ -1,5 +1,5 @@
 <h1 align="center">Jayce Aguilar</h1>
-<p align="center"><i>Aspiring IT Support / Help Desk Professional — Cybersecurity-focused CS student</i></p>
+<p align="center"><i>IT Support & Help Desk | Active Directory · ServiceNow · Windows | CS Student @ University of South Carolina</i></p>
 
 <p align="center">
 <a href="https://linkedin.com/in/jayce-anthony-aguilar"><img src="https://img.shields.io/badge/LinkedIn-jayce--aguilar-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
