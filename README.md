@@ -45,14 +45,13 @@
 
 **Earned**
 
-<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-blue">  *(or whatever you've actually earned — list real ones only)*
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-blue"> 
 
 **In Progress**
+
 <img src="https://img.shields.io/badge/-CCNA-yellow">
 
 **Queued**
-<img src="https://img.shields.io/badge/-Network%2B-lightgrey">
-<img src="https://img.shields.io/badge/-CompTIA%20A%2B-lightgrey">
 
 ---
 
