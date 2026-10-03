@@ -44,6 +44,7 @@
 ## Certifications
 
 **Earned**
+
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-blue">  *(or whatever you've actually earned — list real ones only)*
 
 **In Progress**
