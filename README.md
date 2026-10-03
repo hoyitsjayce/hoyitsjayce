@@ -2,7 +2,7 @@
 <p align="center"><i>Aspiring IT Support / Help Desk Professional — Cybersecurity-focused CS student</i></p>
 
 <p align="center">
-<a href="your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-jayce--aguilar-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="www.linkedin.com/in/jayce-anthony-aguilar"><img src="https://img.shields.io/badge/LinkedIn-jayce--aguilar-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -47,7 +47,7 @@ Splunk, Kali Linux) rather than theory alone.
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-blue">  *(or whatever you've actually earned — list real ones only)*
 
 **In Progress**
-<img src="https://img.shields.io/badge/-Studying-yellow">
+<img src="https://img.shields.io/badge/-CCNA-yellow">
 
 **Queued**
 <img src="https://img.shields.io/badge/-Network%2B-lightgrey">
