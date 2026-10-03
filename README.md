@@ -55,4 +55,4 @@ Splunk, Kali Linux) rather than theory alone.
 
 ---
 
-<p align="center"><a href="www.linkedin.com/in/jayce-anthony-aguilar">Connect on LinkedIn</a></p>
+<p align="center"><a href="https://linkedin.com/in/jayce-anthony-aguilar">Connect on LinkedIn</a></p>
