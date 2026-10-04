@@ -27,17 +27,17 @@
 
 ## IT Support Projects
 
-**Help Desk (Freshservice → osTicket)**
+**Help Desk (FreshService)**
 | Project | Notes |
 |---|---|
-| Ticket Lifecycle & SLAs | Priority matrix, SLA policy/escalation rules, 9-ticket queue, real AD-backed resolutions |
+| [Ticket Lifecycle & SLA Management](https://github.com/hoyitsjayce/Ticket-Lifecycle-SLA-Management) | Priority matrix, SLA policy/escalation rules, 9-ticket queue, real AD-backed resolutions |
 
 **Active Directory & Security Homelab**
 | Project | Notes |
 |---|---|
-| AD & Splunk Homelab | ADDC01 domain controller, Splunk SIEM, Sysmon telemetry, Kali attacker VM |
-| Nmap Scanning (Metasploitable) | Port/service enumeration, OS fingerprinting |
-| Failed SSH Login Detection (Wazuh) | Simulated brute-force SSH attacks, SIEM-based alerting |
+| [AD & Splunk Homelab](https://github.com/hoyitsjayce/home-labs/tree/main/lab3-ad-splunk-lab) | ADDC01 domain controller, Splunk SIEM, Sysmon telemetry, Kali attacker VM |
+| [Nmap Scanning (Metasploitable)](https://github.com/hoyitsjayce/home-labs/tree/main/lab1-nmap) | Port/service enumeration, OS fingerprinting |
+| [Failed SSH Login Detection (Wazuh)](https://github.com/hoyitsjayce/home-labs/tree/main/lab2-wazuh-failed-ssh) | Simulated brute-force SSH attacks, SIEM-based alerting |
 
 *All exercises performed in isolated lab environments/VMs with no unauthorized system or network access, for educational purposes only.*
 
