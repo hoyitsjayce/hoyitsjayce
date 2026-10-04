@@ -23,7 +23,7 @@
 
 | Workflow Project | Proof | Purpose | Stack | Status |
 |---|---|---|---|---|
-| **[Ticket Lifecycle & SLA Management](https://github.com/hoyitsjayce/home-labs/tree/main/ticket-lifecycle)** | Screenshots Included | Simulated a full help desk ticket lifecycle. Built a 4-tier SLA policy with escalation rules, an Impact×Urgency priority matrix, triaged 9 tickets across Tier 1/Tier 2 routing, and resolved real issues against live AD infrastructure (account lockout, DC health check, print spooler failure). | Freshservice · Active Directory · SLA Management · Escalation Workflows | ✅ Complete |
+| **[Ticket Lifecycle & SLA Management](https://github.com/hoyitsjayce/Ticket-Lifecycle-SLA-Management)** | Screenshots Included | Simulated a full help desk ticket lifecycle. Built a 4-tier SLA policy with escalation rules, an Impact×Urgency priority matrix, triaged 9 tickets across Tier 1/Tier 2 routing, and resolved real issues against live AD infrastructure (account lockout, DC health check, print spooler failure). | Freshservice · Active Directory · SLA Management · Escalation Workflows | ✅ Complete |
 
 ## IT Support Projects
 
