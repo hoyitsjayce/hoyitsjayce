@@ -9,9 +9,9 @@
 
 >### Portfolio Note
 >
-> The projects in this portfolio simulate real IT support and security workflows — 
-> ticket lifecycle management, Active Directory administration, SIEM-based threat 
-> detection, and offensive security fundamentals — built end-to-end in isolated 
+> The projects in this portfolio simulate real IT support and security workflows
+> (ticket lifecycle management, Active Directory administration, SIEM-based threat 
+> detection, and offensive security fundamentals) built end-to-end in isolated 
 > home lab environments.
 >
 > Each project focuses on practical help-desk and security engineering tasks: 
